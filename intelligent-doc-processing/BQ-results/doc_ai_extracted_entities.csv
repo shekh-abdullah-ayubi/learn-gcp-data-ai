@@ -1,0 +1,11 @@
+input_file_name,date,address,supplier,invoice_number,purchase_order,due_date,subtotal,tax,total
+cymbal_invoice-0.gif,"10/31/2021
+","1600 Amphitheatre Parkway
+Mountain View, CA, United States
+",,"00001
+","00002
+","11/30/2021
+","$1,004.79
+","$208.10
+","$1,112.89
+"
