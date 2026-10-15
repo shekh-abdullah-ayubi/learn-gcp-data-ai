@@ -1,0 +1,5 @@
+MODEL="gemini-3.5-flash"
+SERVICE_ACCOUNT="${PROJECT_NUMBER}-compute@developer.gserviceaccount.com"
+GOOGLE_GENAI_USE_ENTERPRISE=true
+GOOGLE_CLOUD_LOCATION=global
+MCP_SERVER_URL=https://zoo-mcp-server-670046286336.us-east1.run.app/mcp/
